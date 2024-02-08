@@ -10,7 +10,6 @@ O projeto econcluido como aprendizado da trilha de reactJs NWL EXPERT da Rockets
 ##  💻  Tecnologias Usadas
 As seguintes tecnologias foram usadas para criar este portifolio são:
 
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -19,7 +18,7 @@ As seguintes tecnologias foram usadas para criar este portifolio são:
 
 ## Demonstrações
 
-site para visualização: https://joaosilvateixeira33.github.io/portifolio-final/
+site para visualização: https://app-notes-pearl.vercel.app/
 
 ## Autor
 João Marcos
